@@ -1,7 +1,7 @@
 Architectural Document
 ==
 
-####Diagram Design
+#### Diagram Design
 <hr/>
 
 **1. Database Design**
